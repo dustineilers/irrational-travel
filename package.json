@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "again": "^0.0.1",
     "graphql": "^16.8.1",
     "graphql-request": "^6.1.0",
     "html-react-parser": "^5.1.1",
