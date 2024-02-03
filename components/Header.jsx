@@ -1,6 +1,6 @@
 import React, { useContext, useState, useEffect } from 'react'
 import { getCategories } from '@/services';
-import Link from '@vercel/link';
+import Link from 'next/link';
 
 const Header = () => {
     const [categories, setCategories] = useState([]);
